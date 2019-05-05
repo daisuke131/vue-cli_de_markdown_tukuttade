@@ -21,8 +21,6 @@ $ yarn add highlightjs
 $ yarn run serve
 ```
 
-## local
-
 http://localhost:8080
 
 ## references

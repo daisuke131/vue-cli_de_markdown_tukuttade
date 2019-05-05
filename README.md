@@ -10,7 +10,7 @@ $ npm install --save highlightjs
 ## build
 
 ```
-$ npm run serve
+$ yarn run serve
 ```
 
 ## local

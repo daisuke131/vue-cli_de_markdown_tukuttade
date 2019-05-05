@@ -3,8 +3,8 @@
 ## use packages
 
 ```
-$ npm install -g marked
-$ npm install --save highlightjs
+$ yarn add marked
+$ yarn add highlightjs
 ```
 
 ## build
@@ -15,7 +15,7 @@ $ yarn run serve
 
 ## local
 ```
-http://localhost:8080/markdown
+http://localhost:8080
 ```
 
 ## references

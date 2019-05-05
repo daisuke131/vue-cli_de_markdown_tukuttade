@@ -8,14 +8,14 @@
 $ yarn global add @vue/cli
 ```
 
-## use packages
+## Install packages
 
 ```
 $ yarn add marked
 $ yarn add highlightjs
 ```
 
-## build
+## Run!
 
 ```
 $ yarn run serve

@@ -1,29 +1,29 @@
 # markdown
 
-## Project setup
+## use packages
+
 ```
-yarn install
+$ npm install -g marked
+$ npm install --save highlightjs
 ```
 
-### Compiles and hot-reloads for development
+## build
+
 ```
-yarn run serve
+$ npm run serve
 ```
 
-### Compiles and minifies for production
+## local
 ```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
+http://localhost:8080/markdown
 ```
 
-### Lints and fixes files
-```
-yarn run lint
-```
+## references
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+```
+https://github.com/markedjs/marked
+https://highlightjs.org/
+
+https://madogiwa0124.hatenablog.com/entry/2019/01/03/203334
+http://phiary.me/vue-js-markdown-editor/
+```
